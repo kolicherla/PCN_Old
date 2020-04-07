@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a8b85aa-ad84-49cb-90ed-d8d363d9b3db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/QA/Attachments/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QA/BusinessLogic/CreateJPCN_Page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QA/BusinessLogic/InitialAssessment_Page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/Base/Config.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA/Base/Config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/BusinessLogic/CreateQIP_Page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/BusinessLogic/CreateQI_Page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/BusinessLogic/CreateSCAR_Page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/BusinessLogic/EditQIP_Page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/BusinessLogic/EditSCAR_Page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/BusinessLogic/Filter_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA/BusinessLogic/Filter_Page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/BusinessLogic/Home_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA/BusinessLogic/Home_Page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/BusinessLogic/Login_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA/BusinessLogic/Login_Page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/BusinessLogic/Supplier_QIP_Page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/BusinessLogic/Supplier_SCAR_Page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/PageObjects/Test_Locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA/PageObjects/Test_Locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/TestCases/Test_QIP_Module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/TestCases/Test_QI_Module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/TestCases/Test_Runner_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA/TestCases/Test_Runner_suite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/TestCases/Test_SCAR_Module.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA/TestCases/Test_PCN_Module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/TestCases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA/TestCases/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/TestCases/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/QA/TestCases/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/TestData/SCO_TestData.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/Utilities/CommonLib.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA/Utilities/CommonLib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/Utilities/PerformAction.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA/Utilities/PerformAction.py" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/venv/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QA/PageObjects/Test_Locators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="179" selection-start-line="179" selection-end-line="179" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/SwitchToOtherRoles_Page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QA/TestCases/Test_PCN_Module.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="110" column="35" lean-forward="true" selection-start-line="110" selection-start-column="35" selection-end-line="110" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/CreateJPCN_Page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="94" column="41" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+                <marker date="1577182162465" expanded="true" signature="8154:8488" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/Search_Page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+              <folding>
+                <element signature="e#0#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QA/Utilities/PerformAction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="371" selection-start-line="371" selection-end-line="371" />
+              <folding>
+                <element signature="e#0#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/ClosureAssessment_Page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#0#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/CompletedAssessment_Page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="e#0#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PCNCompliance_CoreCE_SelectBox_xpath</find>
+      <find>//div[@id='Core-Ce-Details']//select[contains(@name,'pcnCompliance')]</find>
+      <find>gett</find>
+      <find>ValidationOnSelectedtext</find>
+      <find>GO</find>
+      <find>margin-right primary</find>
+      <find>EOL_InvistigationFileUpload_fromJPNTable</find>
+      <find>is_En</find>
+      <find>EOL</find>
+      <find>coreCeSendBackComment</find>
+      <find>pcnStatus</find>
+      <find>Validate_PCNStatusComment_Value_name</find>
+      <find>pcnStatusComment</find>
+      <find>pcnStatusCommentpcnCloseComment</find>
+      <find>ass</find>
+      <find>PCN_S</find>
+      <find>//div[@class='supplier-info-section padding-around show-it']//a[@class='button-cancel margin-right'][contains(text(),'Cancel')]</find>
+      <find>SUb</find>
+      <find>//table[@id=</find>
+      <find>ok</find>
+      <find>complete</find>
+      <find>submit</find>
+      <find>Supplier</find>
+      <find>Save</find>
+      <find>date</find>
+      <find>Keys.t</find>
+      <find>Mu</find>
+      <find>is_</find>
+      <find>ht</find>
+      <find>//span[contai</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\PCN\SCO_Automation\QA\Attachments</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Common" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/QA/PageObjects/Login_Page.py" />
+        <option value="$PROJECT_DIR$/QA/PageObjects/EditQI_Page.py" />
+        <option value="$PROJECT_DIR$/QA/Locators/Test_Locators.py" />
+        <option value="$PROJECT_DIR$/QA/PageObjects/CreateQI_Page.py" />
+        <option value="$PROJECT_DIR$/QA/PageObjects/CreateSCAR_Page.py" />
+        <option value="$PROJECT_DIR$/QA/TestCases/.pytest_cache/Test_QIP_Module.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/EditQIP_Page.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/CreateQIP_Page.py" />
+        <option value="$PROJECT_DIR$/QA/TestCases/Test_QIP_Module.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/Supplier_QIP_Page.py" />
+        <option value="$PROJECT_DIR$/QA/TestCases/Test_QI_Module.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/CreateQI_Page.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/CreateSCAR_Page.py" />
+        <option value="$PROJECT_DIR$/QA/TestCases/Test_SCAR_Module.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/Filter_Page.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/Login_Page.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/JPCNStatus Overview_Page.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/Home_Page.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/CreatePCN_Page.py" />
+        <option value="$PROJECT_DIR$/QA/TestCases/conftest.py" />
+        <option value="$PROJECT_DIR$/QA/TestData/PCN_Module.csv" />
+        <option value="$PROJECT_DIR$/QA/Base/Config.py" />
+        <option value="$PROJECT_DIR$/QA/Utilities/CommonLib.py" />
+        <option value="$PROJECT_DIR$/QA/TestCases/Test_Runner_suite.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/SwitchToOtherRoles_Page.py" />
+        <option value="$PROJECT_DIR$/QA/Utilities/PerformAction.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/JPCNStatusOverview_Page.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/InitialAssessment_Page.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/ClosureAssessment_Page.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/CompletedAssessment_Page.py" />
+        <option value="$PROJECT_DIR$/QA/PageObjects/Test_Locators.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/Search_Page.py" />
+        <option value="$PROJECT_DIR$/QA/TestCases/Test_PCN_Module.py" />
+        <option value="$PROJECT_DIR$/QA/BusinessLogic/CreateJPCN_Page.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1401" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SCO_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SCO_Automation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SCO_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SCO_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SCO_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SCO_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+              <item name="Base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SCO_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SCO_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+              <item name="BusinessLogic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SCO_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SCO_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+              <item name="PageObjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SCO_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SCO_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SCO_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SCO_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+              <item name="TestData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SCO_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SCO_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+              <item name="TestReport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SCO_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SCO_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+              <item name="TestReport" type="462c0819:PsiDirectoryNode" />
+              <item name="ScreenShots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SCO_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SCO_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+              <item name="Utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SCO_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="C:/QET/SCO_Automation" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for Test_PCN_Module.Test_PCN.test_TC021_PCN_SolvingMultiple_CoreCE_Problem">
+    <configuration name="pytest for Test_PCN_Module.Test_PCN.test_TC002_PCN_CreateJPCN" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="JuniperAutoDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QA/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--html\u003d..\\TestReport\\report.html --self-contained-html&quot;" />
+      <option name="_new_target" value="&quot;Test_PCN_Module.Test_PCN.test_TC002_PCN_CreateJPCN&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Test_PCN_Module.Test_PCN.test_TC003_PCN_Horizon_PrePCN_Validations" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="JuniperAutoDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QA/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--html\u003d..\\TestReport\\report.html --self-contained-html&quot;" />
+      <option name="_new_target" value="&quot;Test_PCN_Module.Test_PCN.test_TC003_PCN_Horizon_PrePCN_Validations&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Test_PCN_Module.Test_PCN.test_TC012_PCN_Flowwith_DesignChange" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="JuniperAutoDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QA/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--html\u003d..\\TestReport\\report.html --self-contained-html&quot;" />
+      <option name="_new_target" value="&quot;Test_PCN_Module.Test_PCN.test_TC012_PCN_Flowwith_DesignChange&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Test_PCN_Module.Test_PCN.test_TC013_PDN_Create_WorkFlow" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="JuniperAutoDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QA/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--html\u003d..\\TestReport\\report.html --self-contained-html&quot;" />
+      <option name="_new_target" value="&quot;Test_PCN_Module.Test_PCN.test_TC013_PDN_Create_WorkFlow&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Test_PCN_Module.Test_PCN.test_TC021_PCN_SolvingMultiple_CoreCE_Problem" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="JuniperAutoDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QA/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--html\u003d..\\TestReport\\report.html --self-contained-html&quot;" />
+      <option name="_new_target" value="&quot;Test_PCN_Module.Test_PCN.test_TC021_PCN_SolvingMultiple_CoreCE_Problem&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Test_QI_Module.Test_QI.test_TC017_PCN_CoreSE_SendBack_For_ProcessChangePCNType" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="JuniperAutoDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QA/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--html\u003d..\\TestReport\\report.html --self-contained-html&quot;" />
+      <option name="_new_target" value="&quot;Test_QI_Module.Test_QI.test_TC017_PCN_CoreSE_SendBack_For_ProcessChangePCNType&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for " type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="JuniperAutoDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QA/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--html\u003d..\\TestReport\\report.html --self-contained-html&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in Test_Runner_suite.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="JuniperAutoDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QA/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--html\u003d..\\TestReport\\report.html --self-contained-html&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/QA/TestCases/Test_Runner_suite.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for Test_PCN_Module.Test_PCN.test_TC002_PCN_CreateJPCN" />
+      <item itemvalue="Python tests.pytest for Test_QI_Module.Test_QI.test_TC017_PCN_CoreSE_SendBack_For_ProcessChangePCNType" />
+      <item itemvalue="Python tests.pytest for " />
+      <item itemvalue="Python tests.pytest for Test_PCN_Module.Test_PCN.test_TC021_PCN_SolvingMultiple_CoreCE_Problem" />
+      <item itemvalue="Python tests.pytest for Test_PCN_Module.Test_PCN.test_TC003_PCN_Horizon_PrePCN_Validations" />
+      <item itemvalue="Python tests.pytest for Test_PCN_Module.Test_PCN.test_TC012_PCN_Flowwith_DesignChange" />
+      <item itemvalue="Python tests.pytest for Test_PCN_Module.Test_PCN.test_TC013_PDN_Create_WorkFlow" />
+      <item itemvalue="Python tests.pytest in Test_Runner_suite.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for Test_PCN_Module.Test_PCN.test_TC021_PCN_SolvingMultiple_CoreCE_Problem" />
+        <item itemvalue="Python tests.pytest for Test_PCN_Module.Test_PCN.test_TC003_PCN_Horizon_PrePCN_Validations" />
+        <item itemvalue="Python tests.pytest in Test_Runner_suite.py" />
+        <item itemvalue="Python tests.pytest for Test_PCN_Module.Test_PCN.test_TC002_PCN_CreateJPCN" />
+        <item itemvalue="Python tests.pytest for Test_PCN_Module.Test_PCN.test_TC012_PCN_Flowwith_DesignChange" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a8b85aa-ad84-49cb-90ed-d8d363d9b3db" name="Default Changelist" comment="" />
+      <created>1562223804883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562223804883</updated>
+    </task>
+    <task id="LOCAL-00001" summary="deleting folders">
+      <created>1562227177182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562227177182</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cinfig">
+      <created>1562235414899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562235414899</updated>
+    </task>
+    <task id="LOCAL-00003" summary="latest">
+      <created>1565685672480</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565685672480</updated>
+    </task>
+    <task id="LOCAL-00004" summary="latest code - 26 sep">
+      <created>1569497603054</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569497603054</updated>
+    </task>
+    <task id="LOCAL-00005" summary="latest">
+      <created>1571997464326</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571997464326</updated>
+    </task>
+    <task id="LOCAL-00006" summary="latest">
+      <created>1571997772280</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571997772280</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_Test_PCN_Module_Test_PCN_test_TC021_PCN_SolvingMultiple_CoreCE_Problem - 2019.12.24 at 13h 10m 02s.xml">
+      <configuration name="pytest for Test_PCN_Module.Test_PCN.test_TC021_PCN_SolvingMultiple_CoreCE_Problem" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test_PCN_Module_Test_PCN_test_TC021_PCN_SolvingMultiple_CoreCE_Problem - 2019.12.24 at 13h 36m 38s.xml">
+      <configuration name="pytest for Test_PCN_Module.Test_PCN.test_TC021_PCN_SolvingMultiple_CoreCE_Problem" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test_PCN_Module_Test_PCN_test_TC021_PCN_SolvingMultiple_CoreCE_Problem - 2019.12.24 at 13h 40m 28s.xml">
+      <configuration name="pytest for Test_PCN_Module.Test_PCN.test_TC021_PCN_SolvingMultiple_CoreCE_Problem" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test_PCN_Module_Test_PCN_test_TC021_PCN_SolvingMultiple_CoreCE_Problem - 2019.12.24 at 13h 52m 14s.xml">
+      <configuration name="pytest for Test_PCN_Module.Test_PCN.test_TC021_PCN_SolvingMultiple_CoreCE_Problem" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test_PCN_Module_Test_PCN_test_TC021_PCN_SolvingMultiple_CoreCE_Problem - 2019.12.24 at 14h 06m 58s.xml">
+      <configuration name="pytest for Test_PCN_Module.Test_PCN.test_TC021_PCN_SolvingMultiple_CoreCE_Problem" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test_PCN_Module_Test_PCN_test_TC021_PCN_SolvingMultiple_CoreCE_Problem - 2019.12.24 at 14h 27m 38s.xml">
+      <configuration name="pytest for Test_PCN_Module.Test_PCN.test_TC021_PCN_SolvingMultiple_CoreCE_Problem" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test_PCN_Module_Test_PCN_test_TC021_PCN_SolvingMultiple_CoreCE_Problem - 2019.12.24 at 15h 06m 00s.xml">
+      <configuration name="pytest for Test_PCN_Module.Test_PCN.test_TC021_PCN_SolvingMultiple_CoreCE_Problem" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test_PCN_Module_Test_PCN_test_TC021_PCN_SolvingMultiple_CoreCE_Problem - 2019.12.24 at 15h 10m 50s.xml">
+      <configuration name="pytest for Test_PCN_Module.Test_PCN.test_TC021_PCN_SolvingMultiple_CoreCE_Problem" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test_PCN_Module_Test_PCN_test_TC021_PCN_SolvingMultiple_CoreCE_Problem - 2019.12.24 at 15h 14m 49s.xml">
+      <configuration name="pytest for Test_PCN_Module.Test_PCN.test_TC021_PCN_SolvingMultiple_CoreCE_Problem" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test_PCN_Module_Test_PCN_test_TC021_PCN_SolvingMultiple_CoreCE_Problem - 2019.12.24 at 15h 19m 53s.xml">
+      <configuration name="pytest for Test_PCN_Module.Test_PCN.test_TC021_PCN_SolvingMultiple_CoreCE_Problem" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21546261" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49873257" weight="0.32916668" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.9157161" visible="true" weight="0.28936744" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.78390366" weight="0.1372813" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49936628" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49746513" weight="0.32839838" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.0842839" side_tool="true" weight="0.47644684" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.5703422" weight="0.32839838" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21546261" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49873257" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9157161" weight="0.47644684" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.78390366" visible="true" weight="0.42261103" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49936628" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49746513" weight="0.32839838" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.0842839" side_tool="true" weight="0.47644684" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.5703422" weight="0.32839838" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="deleting folders" />
+    <MESSAGE value="cinfig" />
+    <MESSAGE value="latest code - 26 sep" />
+    <MESSAGE value="latest" />
+    <option name="LAST_COMMIT_MESSAGE" value="latest" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/QA/Utilities/PerformAction.py</url>
+          <line>306</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/QA/BusinessLogic/CreateJPCN_Page.py</url>
+          <line>144</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/QA/BusinessLogic/CreateJPCN_Page.py</url>
+          <line>711</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/QA/BusinessLogic/CreateJPCN_Page.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/QA/TestCases/Test_PCN_Module.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="i" language="Python" />
+        <watch expression="//table[@id='created-jpcn']/tbody/tr['&quot;+stri+&quot;']/td[2]" language="Python" />
+        <watch expression="//table[@id='attachment']/tbody/tr[&quot; + stri + &quot;]/td[1]" language="Python" />
+        <watch expression="//a[text()='Dashboard']" language="Python" />
+        <watch expression="JPN-100100742" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>//a[text()='Dashboard']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>JPN-100100742</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>JPN-1001007</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>//table[@id='attachment']/tbody/tr[&quot; + stri + &quot;]/td[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>//table[@id='created-jpcn']/tbody/tr['&quot;+stri+&quot;']/td[2]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/Supplier_QIP_Page.py" />
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python37-32/Lib/datetime.py" />
+    <entry file="file://$PROJECT_DIR$/../PycharmProjects/Sample/venv/Lib/site-packages/pytz/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/QA/TestCases/Test_QIP_Module.py" />
+    <entry file="file://$PROJECT_DIR$/QA/TestCases/Test_QI_Module.py" />
+    <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/CreateQIP_Page.py" />
+    <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/CreateQI_Page.py" />
+    <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/Filter_Page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/Supplier_SCAR_Page.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-2007972628/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="182" column="45" selection-start-line="182" selection-start-column="40" selection-end-line="182" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Sample/venv/Lib/site-packages/selenium/webdriver/support/select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="59" column="57" selection-start-line="59" selection-start-column="57" selection-end-line="59" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/TestReport/Test_PCN_Module.py_Test_PCN_test_TC001_PCN_CreatingPCN.png" />
+    <entry file="file://$PROJECT_DIR$/QA/TestCases/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/TestCases/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/TestData/JPCN_Module.csv" />
+    <entry file="file://$USER_HOME$/PycharmProjects/Sample/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="751" column="8" selection-start-line="751" selection-start-column="8" selection-end-line="751" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/Login_Page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Sample/venv/Lib/site-packages/_pytest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/TestCases/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Sample/venv/Lib/site-packages/pluggy/hooks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="288" selection-start-line="288" selection-end-line="288" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Sample/venv/Lib/site-packages/_pytest/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Sample/venv/Lib/site-packages/pluggy/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/TestData/PDN_Module.csv" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/datetime.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="140" column="12" selection-start-line="140" selection-start-column="12" selection-end-line="140" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Sample/venv/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/Base/Config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/TestCases/Test_Runner_suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/Home_Page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Sample/venv/Lib/site-packages/pluggy/callers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Sample/venv/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="156" column="8" selection-start-line="156" selection-start-column="8" selection-end-line="156" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/InitialAssessment_Page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/JPCNStatusOverview_Page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="136" column="55" selection-start-line="136" selection-start-column="52" selection-end-line="136" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/SwitchToOtherRoles_Page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/TestReport/Test_PCN_Module.py_Test_PCN_test_TC001_PCN_Switchtootherroles.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/TestReport/Test_PCN_Module.py_Test_PCN_test_TC002_PCN_CreateJPCN.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/TestReport/Test_PCN_Module.py_Test_PCN_test_TC002_PCN_CreatingPCN_Horizon_PrePCN.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/TestReport/Test_PCN_Module.py_Test_PCN_test_TC003_PCN_Horizon_PrePCN_Validations.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/TestReport/report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/TestReport/ScreenShots/PCN_Module/TC001_PCN_CreatingPCN/5_Clicked on Switch roles Link.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="218" column="4" selection-start-line="218" selection-start-column="4" selection-end-line="218" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/CompletedAssessment_Page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/Utilities/CommonLib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/TestData/PCN_Module.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Sample/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Sample/venv/Lib/site-packages/_pytest/python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="169" selection-start-line="169" selection-end-line="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/ClosureAssessment_Page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/Search_Page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/Utilities/PerformAction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="371" selection-start-line="371" selection-end-line="371" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/PageObjects/Test_Locators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="179" selection-start-line="179" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/TestCases/Test_PCN_Module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="110" column="35" lean-forward="true" selection-start-line="110" selection-start-column="35" selection-end-line="110" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/BusinessLogic/CreateJPCN_Page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="94" column="41" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+            <marker date="1577182162465" expanded="true" signature="8154:8488" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
